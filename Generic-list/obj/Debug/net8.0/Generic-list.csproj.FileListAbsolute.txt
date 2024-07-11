@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Generic-list\Generic-list\bin\Debug\net8.0\Generic-list.exe
+C:\Users\User\source\repos\Generic-list\Generic-list\bin\Debug\net8.0\Generic-list.deps.json
+C:\Users\User\source\repos\Generic-list\Generic-list\bin\Debug\net8.0\Generic-list.runtimeconfig.json
+C:\Users\User\source\repos\Generic-list\Generic-list\bin\Debug\net8.0\Generic-list.dll
+C:\Users\User\source\repos\Generic-list\Generic-list\bin\Debug\net8.0\Generic-list.pdb
+C:\Users\User\source\repos\Generic-list\Generic-list\obj\Debug\net8.0\Generic-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Generic-list\Generic-list\obj\Debug\net8.0\Generic-list.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Generic-list\Generic-list\obj\Debug\net8.0\Generic-list.AssemblyInfo.cs
+C:\Users\User\source\repos\Generic-list\Generic-list\obj\Debug\net8.0\Generic-list.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Generic-list\Generic-list\obj\Debug\net8.0\Generic-list.dll
+C:\Users\User\source\repos\Generic-list\Generic-list\obj\Debug\net8.0\refint\Generic-list.dll
+C:\Users\User\source\repos\Generic-list\Generic-list\obj\Debug\net8.0\Generic-list.pdb
+C:\Users\User\source\repos\Generic-list\Generic-list\obj\Debug\net8.0\Generic-list.genruntimeconfig.cache
+C:\Users\User\source\repos\Generic-list\Generic-list\obj\Debug\net8.0\ref\Generic-list.dll
+C:\Users\User\source\repos\Generic-list\Generic-list\obj\Debug\net8.0\Generic-list.sourcelink.json
